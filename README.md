@@ -1,4 +1,5 @@
-#Eryka Lima 
+
+# Eryka Lima 
 Front-end Developer em formação | UI/UX Design 🎨
 Olá! Sou a Eryka Lima, técnica em Desenvolvimento de Sistemas e apaixonada por tecnologia, design e experiência do usuário. Gosto de unir criatividade e lógica para desenvolver interfaces intuitivas, acessíveis e visualmente atrativas.
 
